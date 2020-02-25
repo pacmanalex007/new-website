@@ -17,8 +17,8 @@
     background-color: darkgray; /* Black w/opacity/see-through */
     color: rgb(255, 255, 255);
     border: 4px solid #000000;
-    position: absolute;
-    top: 93%;
+    position: relative;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 0;
@@ -26,28 +26,123 @@
     padding: 0;
     text-align: center;
 }
+.new-web
+{
+    text-align:center;
+    color:black;
+    margin-top:20px;
+    font-size:3em;
+    font-weight: 800;
+}
+.current-month
+{
+    color:black;
+    text-align:center;
+    font-weight: 500;
+    border: 4px solid #000000;
+    width:25%;
+    transform: translate(-50%, -50%);
+    top: 23%;
+    left: 50%;
+    position:relative;
+    margin-top:1.4em;
+}
+.date
+{
+    background-color: black; /* Fallback color */
+    background-color: darkgray; /* Black w/opacity/see-through */
+    color: rgb(255, 255, 255);
+    border: 4px solid #000000;
+    position:relative;
+    top: 23%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    width: 35%;
+    padding: 0;
+    text-align: center;
+    font-size:3em;
+
+}
+.updates-and-shit
+{
+    font-size:1.3em;
+    text-align:center;
+    color:darkcyan;
+    font-weight: 600;
+    width:70%;
+    border: 5px groove
+}
+.notes-and-shit
+{
+    font-size:1.0em;
+    text-align:center;
+    color:darkcyan;
+    font-weight: 600;
+    width:50%;
+    border: 5px groove
+}
+.broken-shit
+{
+    font-size:1.2em;
+    text-align:center;
+    color:darkgoldenrod;
+    font-weight: 500;
+    width:65%;
+    border: 5px groove
+
+}
 </style>
 
 
-<hr style="margin-top: 3px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+<hr style="margin-top: 12px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p class="new-web">New Web Updates</p>
+
+    <p class="current-month date">
+        <script>var monthNames = ["January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"];
+        var d = new Date();
+        document.write("Current Month " + monthNames[d.getMonth()]);</script></p>
+
+    <script>
+
+    
+    // document.write("Current Month " + monthNames[d.getMonth()]);
+    </script>
+    <hr style="margin-top: 45px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <!-- Le updates -->
+    <hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <center>
-    <p style="font-size:3em;color:gray;text-align:center;font-weight: 800;">New Web Updates</p>
+    <div class="updates-and-shit">
+    <h2 style="text-align:center;font-weight: 800;">&downharpoonright; <p style="color:maroon;display:inline;">Site updates and shit</p> &downharpoonleft;</h2>
+    <p>&dagger; Moved <a href="./randomness/index"><b><i>"Randomness"</i></b></a></p>
+    <p>&dagger; Moved <a href="./meme-roulette/index"><b><i>"Meme Roulette"</i></b></a></p>
+    <p>&dagger; Spent like <small><strike>15-30 minutes</strike></small> the past hour making this look better than any other part of this version of my site archive.</p>
+    </div>
+    </center>
+    <hr style="margin-top: 55px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <center>
+    <div class="broken-shit">
+    <h2 style="text-align:center;font-weight: 800;">&downharpoonright; <p style="color:sandybrown;display:inline;">Broken shit</p> &downharpoonleft;</h2>
+    <p>&divonx; My socials buttons won't show on the public version of my site but when I preview it via my browser it works... Fuck knows why lol</p>
+    <p>&divonx; In the screenshot below, this is what you should see at the bottom of every page (except <a href="./meme-roulette/index.php">Meme Roulette</a></p>
+    <img src="images/chrome_p946G3jRYX.png">
+    </div>
     </center>
 
-    <hr style="margin-top: 3px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
-
+    <hr style="margin-top: 55px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <h2 style="text-align:center;font-weight: 800;">&upharpoonright; <p style="color:forestgreen;display:inline;">Notes and other shit</p> &upharpoonleft;</h2>
     <center>
-    <p style="font-size:1.5em;color:black;text-align:center;font-weight: 800;">Current Month: Feburary</p>
+    <div class="notes-and-shit">
+    <p>&target; When I first uploaded the first version of "New Website", it wouldn't all upload because of the size limiations they have, plus my site as of when I tried uploading it was around 20-25+ GB which was like a long while ago and now it's around <small><strike>~50GBish</strike></small> ~75-77.5GB <small>&nabla; Feb 25</small></p>
+    <p>&target; Every month I will be archiving these <b><i>"Update"</i></b> logs and making them accessible if you want to look at them for whatever reason, which'll take effect starting from March <small>(as long as I don't forget lol)</small> <small>&nabla; Feb 25</small></p>
+    
+    </div>
     </center>
 
-
-    <hr style="margin-top: 3px; height: 1px; border-top: 6px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
-
-    <p style="font-size:50px;text-align:center;color:darkblue;">25/02</p>
-    <p>• Moved <a href="./randomness/index"><b><i>"Randomness"</i></b></a></p>
-    <p>• Moved <a href="./meme-roulette/index"><b><i>"Meme Roulette"</i></b></a></p>
-
-
+    <hr style="margin-top: 48px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
 
     <div class="social-buttons">
         <li class="list-group-item" style="color:black;"><b>Social Media</b>:
