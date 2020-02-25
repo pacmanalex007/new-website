@@ -33,7 +33,19 @@
   </head>
   <body>
 
-
+<style>
+hr {
+background: none;
+border: 0;
+clear: both;
+display: block;
+float: none;
+font-size: 0;
+padding: 0;
+overflow: hidden;
+visibility: hidden;
+}
+</style>  
 
     <div class="site-wrap">
 
@@ -46,10 +58,12 @@
     <div class="site-mobile-menu-body"></div>
   </div>
 
-  <header class="header-bar d-flex d-lg-flex align-items-center inner-page-header" data-aos="fade-down">
+  <div style="position:fixed;margin-left:2%;">
+  <header class="d-flex d-lg-flex align-items-center inner-page-header" data-aos="fade-down">
     <div class="site-logo">
-      <a href="index.php">ROULETTE DECK</a>
+      <p style="font-size:1.5em;color:white;font-weight:900;overflow: hidden;height:auto;">ROULETTE DECK</p>
     </div>
+</div>
     
     </div>
   </header> 
@@ -126,7 +140,7 @@
         <div class="col-md-12 text-center py-5">
           <p>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</a>
+        Copyright <a href="https://pacmanalex007.github.io/new-website/">New Website</a>, <a href="https://www.twitter.com/Pacmanalex007">Pacmanalex007</a> Inc & <a href="https://www.twitter.com/MemeRoulette">Meme Roulette</a> &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</a>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
       </p>
         </div>
