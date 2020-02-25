@@ -11,7 +11,42 @@
 </head>
 <body>
 
-    <style>
+<style>
+hr {
+    background: none;
+    border: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+blink, .blink {
+    -webkit-animation: blink 2s step-end infinite;
+       -moz-animation: blink 1s step-end infinite;
+         -o-animation: blink 2s step-end infinite;
+            animation: blink 1s step-end infinite;
+  }
+  
+  @-webkit-keyframes blink {
+   55% { opacity: 0 }
+  }
+  
+  @-moz-keyframes blink {
+   75% { opacity: 0 }
+  }
+  
+  @-o-keyframes blink {
+   25% { opacity: 0 }
+  }
+  
+  @keyframes blink {
+   55% { opacity: 0 }
+  }
+
+
 .social-buttons {
     background-color: black; /* Fallback color */
     background-color: darkgray; /* Black w/opacity/see-through */
@@ -26,7 +61,7 @@
     padding: 0;
     text-align: center;
   }
-    </style>
+</style>
 
 
 
@@ -55,8 +90,9 @@
     </div>
   </nav>
 
+  <hr style="margin-top: 16px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <center>
-    <p style="font-size:2em;color:gray;text-align:center;display:inline;">Welcome to</p> <p style="font-size:2em;color:red;text-align:center;font-weight:700;display:inline;">New Website Archive</p>
+    <p style="font-size:2em;color:gray;text-align:center;display:inline;">Welcome to</p> <p style="font-size:2em;color:red;text-align:center;font-weight:700;display:inline;margin-left:0.1em;"> New Website Archive</p>
     </center>
 
 
