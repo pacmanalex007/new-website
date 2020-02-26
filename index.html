@@ -7,15 +7,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 <link rel="stylesheet" href="css/style.css">
+<script src="js/feather.js"></script>
+<script src="js/feather.min.js"></script>
 <title>New Website Archive | Home</title>
 </head>
 <body>
 
 <style>
-.social-buttons {
+.social {
     background-color: black; /* Fallback color */
     background-color: darkgray; /* Black w/opacity/see-through */
-    color: rgb(255, 255, 255);
+    color: black;
     border: 4px solid #000000;
     position: absolute;
     top: 93%;
@@ -25,6 +27,17 @@
     width: 50%;
     padding: 0;
     text-align: center;
+}
+hr {
+    background: none;
+    border: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
 }
 </style>
 
@@ -62,18 +75,28 @@
   <hr style="margin-top: 16px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <center>
     <p style="font-size:2em;color:gray;text-align:center;display:inline;">Welcome to</p> <p style="font-size:2em;color:red;text-align:center;font-weight:700;display:inline;margin-left:0.1em;"> New Website Archive</p>
+    <hr style="margin-top: 30px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <p style="font-size:1.5em;color:black;text-align:center;font-weight:700;width:70%;"> This version of "New Website" is extremely bare-bones at the moment, though I can't upload the original site here due to size limitaions <small style="color:red;"><i>I've explained this in the <a href="updates">updates</a> area, under notes.</i></small></p>
     </center>
 
+        <!-- example icon -->
+        
 
-    <div class="social-buttons">
-        <li class="list-group-item" style="color:black;"><b>Social Media</b>:
-        <a href="https://www.facebook.com/Pacmanalex007"><button type="button" class="btn btn-fb"><i class="fab fa-facebook-f pr-1"></i> Facebook</button></a> •
-        <a href="https://www.twitter.com/Pacmanalex007"><button type="button" class="btn btn-tw"><i class="fab fa-twitter pr-1"></i> Twitter</button></a> •
-        <a href="https://www.instagram.com/Pacmanalex007"><button type="button" class="btn btn-ins"><i class="fab fa-instagram pr-1"></i> Instagram</button></a> •
-        <a href="https://www.youtube.com/Pacmanalex007"><button type="button" class="btn btn-yt"><i class="fab fa-youtube pr-1"></i> YouTube</button></a> •
-        <a href="https://github.com/pacmanalex007"><button type="button" class="btn btn-git"><i class="fab fa-github pr-1"></i> Github</button></a>
+
+
+<div class="social">
+    <li class="list-group-item" style="color:black;"><b>Social Media</b>:
+    <a href="https://www.facebook.com/Pacmanalex007"><button type="button" class="btn facebook"><i data-feather="facebook"></i> Facebook</button></a> •
+    <a href="https://www.twitter.com/Pacmanalex007"><button type="button" class="btn twitter"><i data-feather="twitter"></i> Twitter</button></a> •
+    <a href="https://www.instagram.com/Pacmanalex007"><button type="button" class="btn instagram"><i data-feather="instagram"></i> Instagram</button></a> •
+    <a href="https://www.youtube.com/Pacmanalex007"><button type="button" class="btn youtube"><i data-feather="youtube"></i> YouTube</button></a> •
+    <a href="https://github.com/pacmanalex007"><button type="button" class="btn github"><i data-feather="github"></i> Github</button></a>
     </li>
 </div>
+
+<script>
+feather.replace()
+</script>
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
