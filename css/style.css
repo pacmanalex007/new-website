@@ -1,14 +1,4 @@
-hr {
-    background: none;
-    border: 0;
-    clear: both;
-    display: block;
-    float: none;
-    font-size: 0;
-    padding: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
+
 blink, .blink {
     -webkit-animation: blink 2s step-end infinite;
        -moz-animation: blink 1s step-end infinite;

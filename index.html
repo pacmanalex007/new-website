@@ -13,7 +13,18 @@
 </head>
 <body>
 
-<style>
+    <style>
+hr {
+    background: none;
+    border: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
 .social {
     background-color: black; /* Fallback color */
     background-color: darkgray; /* Black w/opacity/see-through */
@@ -28,20 +39,33 @@
     padding: 0;
     text-align: center;
 }
-hr {
-    background: none;
-    border: 0;
-    clear: both;
-    display: block;
-    float: none;
-    font-size: 0;
+  * {
+    margin: 0;
     padding: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
-</style>
-
-
+    box-sizing: border-box;
+  }
+  
+  /* Mobile Styles */
+  @media only screen and (max-width: 400px) {
+    body {
+      background-color: white;
+    }
+  }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+    body {
+      background-color: white;
+    }
+  }
+  
+  /* Desktop Styles */
+  @media only screen and (min-width: 961px) {
+    body {
+      background-color: white;
+    }
+  }
+    </style>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="/">New Website Archive 2011-<script>document.write(new Date().getFullYear());</script></a>
@@ -63,7 +87,7 @@ hr {
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="randomness/">Randomness <span class="badge badge-success">Online</span></a>
-            <a class="dropdown-item" href="meme-roulette/">Meme Roulette <span class="badge badge-success">Online</span></a>
+            <a class="dropdown-item" href="meme-roulette/index.html">Meme Roulette <span class="badge badge-success">Online</span></a>
           </li>
         <li class="nav-item">
         <a class="nav-link"><blink> Live Updates • </blink></a>
@@ -72,17 +96,12 @@ hr {
     </div>
   </nav>
 
-  <hr style="margin-top: 16px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <hr style="margin-top: 16px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <center>
     <p style="font-size:2em;color:gray;text-align:center;display:inline;">Welcome to</p> <p style="font-size:2em;color:red;text-align:center;font-weight:700;display:inline;margin-left:0.1em;"> New Website Archive</p>
-    <hr style="margin-top: 30px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <p style="font-size:1.5em;color:black;text-align:center;font-weight:700;width:70%;"> This version of "New Website" is extremely bare-bones at the moment, though I can't upload the original site here due to size limitaions <small style="color:red;"><i>I've explained this in the <a href="updates">updates</a> area, under notes.</i></small></p>
     </center>
-
-        <!-- example icon -->
-        
-
-
 
 <div class="social">
     <li class="list-group-item" style="color:black;"><b>Social Media</b>:
