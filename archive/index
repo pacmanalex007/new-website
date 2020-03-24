@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="../js/feather.js"></script>
+<script src="../js/feather.min.js"></script>
+<title>New Website Archive | Archive List</title>
+</head>
+<body>
+
+<style>
+.social {
+    background-color: black; /* Fallback color */
+    background-color: darkgray; /* Black w/opacity/see-through */
+    color: black;
+    border: 4px solid black;
+    position: relative;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 50%;
+    padding: 0;
+    text-align: center;
+}
+.new-web
+{
+    text-align:center;
+    color:black;
+    margin-top:20px;
+    font-size:2em;
+    font-weight: 800;
+}
+.current-month, .date
+{
+    background-color: black; /* Fallback color */
+    background-color: darkgray; /* Black w/opacity/see-through */
+    color: rgb(255, 255, 255);
+    border: 4px solid #000000;
+    position:relative;
+    top: 23%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    width: 25%;
+    padding: 0;
+    text-align: center;
+    font-size:1.7em;
+    font-weight: 500;
+    margin-top:1.4em;
+
+
+}
+.updates-and-shit
+{
+    font-size:1.1em;
+    text-align:center;
+    color:darkcyan;
+    font-weight: 600;
+    width:80%;
+    border: 5px groove
+}
+.notes-and-shit
+{
+    font-size:1.0em;
+    text-align:center;
+    color:darkcyan;
+    font-weight: 600;
+    width:70%;
+    border: 5px groove
+}
+.broken-shit
+{
+    font-size:1.2em;
+    text-align:center;
+    color:darkgoldenrod;
+    font-weight: 500;
+    width:70%;
+    border: 5px groove
+
+}
+hr.new1 {
+  border-top: 3px solid black;
+  visibility: visible;
+}
+hr {
+    background: none;
+    border: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+</style>
+
+
+<!-- Shit I need to remember 
+
+<p style="color:black;display:inline;"><a class="btn-disabled" href="javascript:void(0)">Archives</a> </p>
+
+-->
+
+
+    <hr style="margin-top: 10px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    
+    <div class="shadow-lg p-3 mb-5 bg-white rounded">
+    <p class="new-web">New Web Updates | Archive List</p>
+    </div>
+
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <!-- Le updates -->
+    <center>
+    <div class="updates-and-shit">
+    <hr style="margin-top: -10px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <h2 style="text-align:center;font-weight: 800;">&downharpoonright; <p style="color:maroon;display:inline;">Below you can view all the months and what updates were made and... yeah, all that boring shit.</p> &downharpoonleft;</h2>
+
+    <hr class="new1">
+    <p>&fallingdotseq; <b><i>"January" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <a href="./feburary"><b><i>"Feburary"</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"March" [current month]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"April" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"May" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"June" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"July" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"August" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"September" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"October" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"November" [unavailable]</i></b></a></p>
+    <p>&fallingdotseq; <b><i>"December" [unavailable]</i></b></a></p>
+
+</div>
+    </center>
+
+
+
+    <hr style="margin-top: 100px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <div class="social">
+        <li class="list-group-item" style="color:black;"><b>Social Media</b>:
+        <a href="https://www.facebook.com/Pacmanalex007"><button type="button" class="btn facebook"><i data-feather="facebook"></i> Facebook</button></a> •
+        <a href="https://www.twitter.com/Pacmanalex007"><button type="button" class="btn twitter"><i data-feather="twitter"></i> Twitter</button></a> •
+        <a href="https://www.instagram.com/Pacmanalex007"><button type="button" class="btn instagram"><i data-feather="instagram"></i> Instagram</button></a> •
+        <a href="https://www.youtube.com/Pacmanalex007"><button type="button" class="btn youtube"><i data-feather="youtube"></i> YouTube</button></a> •
+        <a href="https://github.com/pacmanalex007"><button type="button" class="btn github"><i data-feather="github"></i> Github</button></a>
+        </li>
+    </div>
+
+<script>
+feather.replace()
+</script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
