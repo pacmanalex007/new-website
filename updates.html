@@ -33,7 +33,7 @@
     text-align:center;
     color:black;
     margin-top:20px;
-    font-size:2em;
+    font-size:3em;
     font-weight: 800;
 }
 .current-month, .date
@@ -44,7 +44,7 @@
     border: 4px solid #000000;
     position:relative;
     top: 23%;
-    left: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
     z-index: 0;
     width: 25%;
@@ -52,9 +52,25 @@
     text-align: center;
     font-size:1.7em;
     font-weight: 500;
-    margin-top:1.4em;
-
-
+    margin-top:0.6em;
+}
+.previous-month
+{
+    background-color: black; /* Fallback color */
+    background-color: darkgray; /* Black w/opacity/see-through */
+    color: rgb(255, 255, 255);
+    border: 4px solid #000000;
+    position:relative;
+    top: 23%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 25%;
+    padding: 0;
+    text-align: center;
+    font-size:1.7em;
+    font-weight: 500;
+    margin-top:0.6em;
 }
 .updates-and-shit
 {
@@ -71,7 +87,7 @@
     text-align:center;
     color:darkcyan;
     font-weight: 600;
-    width:70%;
+    width:67%;
     border: 5px groove
 }
 .broken-shit
@@ -108,16 +124,19 @@ hr {
 
 -->
 
-
-    <hr style="margin-top: 10px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+<hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     
-    <div class="shadow-lg p-3 mb-5 bg-white rounded">
-    <p class="new-web">New Web Updates</p>
-    </div>
+<div class="shadow-lg p-3 mb-5 bg-white rounded">
+    <center>
+    <p style="display:inline-block;width:28%;" class="new-web">New Web Updates</p>
+    <p style="display:inline-block;font-size:45px;width:5%;">|</p>
+    <p style="font-size:23px;color:red;display:inline-block;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width:30%;" class="new-web">"Updates" is better viewed on Desktop than mobile</p>
+    </center>
+</div>
     
     <hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
 
-    <p style="display:flex;width:10%;" class="date"><a href="archive/feburary">&le; Feburary</a></p>
+    <p style="display:inline-flex;width:10%;" class="previous-month"><a href="archive/feburary">&le; Feburary</a></p>
 
     <p style="display:inline-block;" class="current-month date">
         <script>var monthNames = ["January", "February", "March", "April", "May", "June",
@@ -129,7 +148,8 @@ hr {
     // document.write("Current Month " + monthNames[d.getMonth()]);
     </script>
 
-<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+<hr style="margin-top: -10px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
 
     <!-- Le updates -->
     <center>
@@ -138,24 +158,33 @@ hr {
     <h2 style="text-align:center;font-weight: 800;">&downharpoonright; <p style="color:maroon;display:inline;">Site updates and shit</p> &downharpoonleft;</h2>
 
     <hr class="new1">
+
     <p>&dagger; Updated <a href="./randomness/index">"Randomness"</a>, making an attempt to make the page properly viewable on both mobile and desktop at the same time. <small>&daleth; Mar 23</small></p>
     <p>&dagger; Forgot to remove last months site and and add the month of March's shit lol <small>&daleth; Mar 23</small></p>
-    <p>&dagger; Tried making the notice message on <a href="./randomness/index">"Randomness"</a> but it wouldn't work and couldn't be fucked to make it look any prettier, reverted back to the original lol <small>&daleth; Mar 24</small></p>
+    <p>&dagger; Tried making the notice message on <a href="./randomness/index">"Randomness"</a> look hot but it wouldn't work and couldn't be bothered to try... SO I reverted back to the original styling lmao <small>&daleth; Mar 24</small></p>
+    <p>&dagger; It's probably worth me saying but <small><strike style="color:black;">It's not really but who cares.</strike></small> most days when I'm bored I update my website <i><small style="color:blue;font-weight:700;font-size:12px;">hence why there are many updates the past couple of days</small></i> <i style="font-size:15px;font-weight:700;color:gray;">(this as well as my local version)</i> and sometimes when I DO make changes to something, I may forget to add it to the update log so; you may <small style="color:red;font-family:Arial, Helvetica, sans-serif;font-weight:700;font-size:10px;">or may not because no one comes to my site</small> see updates on various parts of this site that I haven't logged. <small>&daleth; Mar 24</small></p>
     </div>
     </center>
 
-    <hr style="margin-top: 35px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
     <center>
+
     <div class="notes-and-shit">
+    <hr style="margin-top: -10px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
     <h2 style="text-align:center;font-weight: 800;">&downharpoonright; <p style="color:forestgreen;display:inline;">Notes and other shit</p> &downharpoonleft;</h2>
+
+    <hr class="new1">
+
     <p>&target; When I first uploaded the first version of "New Website", it wouldn't all upload because of the size limiations they have, plus my site as of when I tried uploading it was around 20-25+ GB which was like a long while ago and now it's around 86GB+ <small>&pointint; Mar 23</small></p>
     <p>&target; Every month I will be archiving these <b><i>"Update"</i></b> logs and making them accessible if you want to look at them for whatever reason, which'll take effect starting from March <small>(as long as I don't forget lol)</small> <small>I forgot lol - &straightphi; Mar 23</small> <strike><small>&nabla; Feb 25</small></strike></p>
     <p>&target; As well as this page being wiped for new updates (every month), the "Notes" and "Broken" text boxes will stay because.. well.. if things are fucked up I gotta announce it ya know; as well as say shit like this :) <small>&nabla; Feb 26</small></p>
+    <p>&target; Because I'm <b style="font-weight:900;">Very very very very very.... V  E  R  Y</b> forgetful, you may see updates from the month before, unless I ACTUALLY remember. You may not... Though I did forget to archive the Feburary log, I only did that like a couple days ago.. AND we are almost in a new month.. The best month.  <small>&nabla; Mar 24</small></p>
     
     </div>
     </center>
 
-    <hr style="margin-top: 30px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <hr style="margin-top: 50px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
 
     <div class="social">
         <li class="list-group-item" style="color:black;"><b>Social Media</b>:
