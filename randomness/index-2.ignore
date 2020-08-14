@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<meta name="description" content="Alex Fay Discography">
+<meta name="keywords" content="Pacmanalex007, Alex Fay, Alex Fay Discography" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="../js/feather.js"></script>
+<script src="../js/feather.min.js"></script>
+<title>New Website Archive | Randomness</title>
+</head>
+<body style="background-color:black;">
+    
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  hr {
+    background: none;
+    border: 0;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+.remix_ss{
+box-shadow: 0px 0px 1em forestgreen;
+width:50%;
+}
+.mmxx-plan{
+box-shadow:0px 0px 0.7em saddlebrown;
+width:50%;
+}
+.img-cover{
+box-shadow: 0px 0px 0.5em white;
+opacity:1.0;
+text-decoration:none;
+float:middle;
+}
+.img-cover:hover{
+box-shadow: 0px 0px 0.5em white;
+opacity:0.5;
+text-decoration:none;
+float:middle;
+}
+</style>
+    
+    <p style="font-size:2.0em;text-align:center;color:white;"><b>Alex Fay - Discography</b></p>
+    <center><p style="font-size:1.2em;text-align:center;color:gray;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width:75%;"><b><i>Below you will find my entire musical discography from; all my albums both released & some unreleased, singles, EP's, mixtapes ETC.., what's upcoming and possibly sneak previews of random or upcoming songs from either albums or just in general. <!-- [Mar 27; *this may not happen, but will leave this in quotes for now* - Will post upcoming album art a week early all here! --> </i></b></p></center>
+    <center><p style="font-size:1.0em;text-align:center;color:gray;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width:65%;">This part of the site may look a little funky on Mobile compared to desktop version, I'm trying to even everything out on both instead of having two sets of index pages, one for Mobile and the other for Desktop. Way to much hassle so I'm trying to keep it all in one because it says me having to copy everything to the second HTML code (the mobile version). Of course if anything looks funky that I do miss, please contact me via Twitter <a href="https://www.twitter.com/Pacmanalex007">@Pacmanalex007</a>, I'm always active.</p></center>
+    <hr>
+
+    <style>
+    .gallery-txt{
+    opacity:0.5;
+    color:silver;
+    text-decoration:none;
+    }
+    .gallery-txt:hover{
+    opacity:1.0;
+    color:white;
+    text-decoration:none;
+    }
+    </style>
+
+    <!-- <center>
+        <div style="width:35%;position:fixed;top:81.5%;right:0;left:64%;;z-index:1;" class="alert alert-warning alert-dismissible fade show" role="alert">
+    <p style="font-size:0.8em;text-align:center;color:darkgoldenrod;font-weight:600"><i>If you are using a mobile device and haven't been redirected to the mobile friendly version, please click <a href="mobile/">here</a>, otherwise disregard this message!</i></b></p>
+    <p style="font-size:1em;text-align:center;color:darkgoldenrod;font-weight: 700;">We have this in placed just in case anyone doesn't get redirected or if somethings messes up.</p>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  </ul>
+</div>
+
+</center> -->
+
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+<center>
+    <div class="mmxx-plan">
+<center>
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+    <p style="font-size:1.5em;color:white;text-align:center;text-shadow:0px 0px 0.55em red;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width:25%;box-shadow:0px 0px 0.30em silver;">THE MMXX PLAN</p>
+</center>
+
+<!-- THE MMXX PLAN -->
+    <ul>
+    <a href="http://fanlink.to/THEDEVIL">
+    <img class="img-cover" src="covers/THE DEVIL.jpg" height="auto" width="300" alt="THE DEVIL">
+    </a>
+
+    <a href="http://fanlink.to/ALEXFAYII">
+    <img class="img-cover" src="covers/ALEX FAY II.jpg" height="auto" width="300" alt="ALEX FAY II">
+    </a>
+
+    <a href-disabled="">
+    <img class="img-cover" style="opacity:0.5;margin-top:1em;" src="covers/Album3.png" height="auto" width="300" alt="ALBUM THREE">
+    </a>
+
+    <a href-disabled="">
+    <img class="img-cover" style="opacity:0.5;margin-top:1em;" src="covers/Album4.png" height="auto" width="300" alt="ALBUM FOUR">
+    </a>
+</ul>
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+</div>
+
+
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+<!-- MUSIC VIDEOS AND STUFF - (Start) -->
+<center>
+<div class="remix_ss">
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+<p style="font-size:16px;color:red;font-family:OCR A Std, monospace;">Listen to my first remix of three, this is for Disciple's... </p>
+<p style="font-size:16px;color:red;font-family:OCR A Std, monospace;"> <a style="color:white;text-decoration:underline;" href="https://twitter.com/Disciplerecs/status/1262805302673412096?s=20"> "<i>THE BIGGEST REMIX COMPETITION OF ALL TIME</i>"</a> <b style="color:#1b95cc;text-decoration:underline;"><a href="https://twitter.com/search?q=%23StayHomeAndCreate&src=typed_query">#StayHomeAndCreate</a></b> </p>
+<iframe style="box-shadow:0px 0px 0.75em white;" width="720" height="480" src="https://www.youtube.com/embed/sABBdRc28iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+<p style="font-size:1.2em;color:red;font-family: Tahoma;font-style:italic;font-weight: 800;">Other places you can stream my remix:</p>
+<a style="font-size:1.3em;color:white;font-style: italic;text-decoration:underline;" href="https://soundcloud.com/officialpacmanalex007/terravita-bare-aim-to-kill-alex-fay-remix">SoundCloud</a>
+<a style="font-size:1.3em;color:white;font-style: italic;text-decoration:underline;" href="https://audiomack.com/pacmanalex007/song/aim-to-kill-alex-fay-remix">Audiomack</a>
+<hr style="margin-top: 15px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+</div>
+</center>
+    
+</center>
+<!-- MUSIC VIDEOS AND STUFF - (End) -->
+
+
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <center>
+
+
+    <!-- Remixes [Images] -->
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; RECENT RELEASES &target;</p>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/terravita-bare-aim-to-kill-alex-fay-remix">
+    <img class="img-cover" src="covers/AIM TO KILL.jpg" height="auto" width="300" alt="Terravita & Bare - Aim To Kill (Alex Fay Remix)">
+    </a>
+
+
+    <br>
+
+    <!-- Albums [Images] -->
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; ALBUMS &target;</p>
+    
+    <a href-disabled="">
+    <img class="img-cover" style="opacity:0.5;" src="covers/beats.png" height="auto" width="300" alt="Beats">
+    </a>
+
+    <a href="https://open.spotify.com/album/6Zz4jw0vkq5VfYHwYhWiS7?si=_9TiftetTi25yEbrnwXdKA">
+    <img class="img-cover" src="covers/Made on Logic Pro X.jpg" height="auto" width="300" alt="Made on Logic Pro X">
+    </a>
+
+    <a href="https://open.spotify.com/album/3qfIBnKnaLIcBVOxAKTvnx?si=F2AIutrmRV6_tq6a2avNgg">
+    <img class="img-cover" src="covers/AsItIs.jpg" height="auto" width="300" alt="As It Is">
+    </a>
+
+    <a href="https://open.spotify.com/album/0K7x9p6vJzwVGVNkt3XZ7r?si=1Chx9VslQUqw41ptKKv5wQ">
+    <img class="img-cover" src="covers/Made on Logic Pro X Part II.png" height="auto" width="300" alt="Made on Logic Pro X Part II">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/2eCKf98108GLGjg2cQ6PbI?si=aUCA47VLRDWDpAdl9knvOA">
+    <img class="img-cover" src="covers/True Endings.png" height="auto" width="300" alt="True Endings">
+    </a>
+
+    <a href="https://open.spotify.com/album/1sJKmwjN5Mmp1TX0Ox1NIY?si=1GSrI4kxSROqIwh2jrFD2A">
+    <img class="img-cover" src="covers/Made on Logic Pro X Part III.png" height="auto" width="300" alt="Made on Logic Pro X Part III">
+    </a>
+
+    <a href="https://open.spotify.com/album/0HXzq8KnzOxO7HJABTbIk1?si=m3fDin-5QmmxP7bY9w8gkw">
+    <img class="img-cover" src="covers/In-The-End.jpg" height="auto" width="300" alt="In The End">
+    </a>
+
+    <a href="https://fanlink.to/CloserDL">
+    <img class="img-cover" src="covers/Closer Album Cover.jpg" height="auto" width="300" alt="Closer">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://fanlink.to/DLDanger">
+    <img class="img-cover" src="covers/Danger.jpg" height="auto" width="300" alt="Danger">
+    </a>
+
+    <a href="https://open.spotify.com/album/3kr97WJPRz2St7ba1P10M5?si=q65es6KFS4u4CYj33UPHzg">
+    <img class="img-cover" src="covers/ALARM.png" height="auto" width="300" alt="Alarm">
+    </a>
+
+    <a href="https://open.spotify.com/album/6h9oLiks0N1nn5sAxGJRl0?si=PdFE48XoRaulv-n9Y0io0g">
+    <img class="img-cover" src="covers/Made on Logic Pro X Part IV.png" height="auto" width="300" alt="Made on Logic Pro X Part IV">
+    </a>
+
+    <a href="https://open.spotify.com/album/2t3fx1S1Av3tOPq8e922k9?si=p7glTbVgTqWWBM-NhKs0Jw">
+    <img class="img-cover" src="covers/Help Me (Stream Cover).jpg" height="auto" width="300" alt="Help Me">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/3ZhRPE5KvVY9GzPqTdY2wv?si=aMhZVHvmQJaqGQufBmYNVQ">
+    <img class="img-cover" src="covers/PROJECT X [Updated].png" height="auto" width="300" alt="Project X">
+    </a>
+
+    <a href="https://open.spotify.com/album/5dEG79Ir925A7x91phi3Y4?si=Pv2sMdcCRTCCchJskM-qHA">
+    <img class="img-cover" src="covers/PROJECT X (Deluxe) (3000x3000).png" height="auto" width="300" alt="Project X (Deluxe)">
+    </a>
+
+    <a href="https://open.spotify.com/album/45ymAOK7wH8tNHjpsyORP9?si=KLRgE2RQRyS7hKrRps6D-A">
+    <img class="img-cover" src="covers/ALEX FAY.jpg" height="auto" width="300" alt="Alex Fay">
+    </a>
+
+    <a href="https://open.spotify.com/album/0BfSNqqQYbY9kCsSub2iiA?si=bcSNswjVQQ-IVZuZenXJTw">
+    <img class="img-cover" src="covers/ALEX FAY.jpg" height="auto" width="300" alt="Alex Fay (Deluxe)">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/2eKpBr6A0AQ63lDgO4cqGc?si=Ad-0TXj8QEKrd69WgwlYag">
+    <img class="img-cover" src="covers/Paranoid (streaming).jpg" height="auto" width="300" alt="PARANOID">
+    </a>
+
+    <a href="https://fanlink.to/FUCCCHRISTMAS">
+    <img class="img-cover" src="covers/Fucc Christmas.jpg" height="auto" width="300" alt="Fucc Christmas">
+    </a>
+
+    <a href="https://fanlink.to/GameOverVolume1">
+    <img class="img-cover" src="covers/Game Over.png" height="auto" width="300" alt="Game Over: Volume One">
+    </a>
+
+    <a href="https://fanlink.to/GAMEOVERVOLUMETWO">
+    <img class="img-cover" src="covers/GAME OVER - VOLUME TWO [FINAL COVER].jpg" height="auto" width="300" alt="Game Over: Volume Two">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/3jLaHEE9w9Fzjaz2wTB5qN?si=FIcq9IqRQYWO6txxf8FRFg">
+    <img class="img-cover" src="covers/Two Years [3600x3600].jpg" height="auto" width="300" alt="Two Years">
+    </a>
+
+    <a href="https://fanlink.to/TAKEONEALBUM">
+    <img class="img-cover" src="covers/TAKE ONE (new cover).jpg" height="auto" width="300" alt="TAKE ONE">
+    </a>
+
+    <a href="https://fanlink.to/HELPME-PARTII">
+    <img class="img-cover" src="covers/Help Me Part Two (updated).jpg" height="auto" width="300" alt="Help Me: Part II">
+    </a>
+
+    <a href="https://fanlink.to/RANDOMAUTOMATION">
+    <img class="img-cover" src="covers/Random Automation.jpg" height="auto" width="300" alt="Random Automation">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="http://fanlink.to/THEDEVIL">
+    <img class="img-cover" src="covers/THE DEVIL.jpg" height="auto" width="300" alt="THE DEVIL">
+    </a>
+
+    <a href="http://fanlink.to/ALEXFAYII">
+    <img class="img-cover" src="covers/ALEX FAY II.jpg" height="auto" width="300" alt="ALEX FAY II">
+    </a>
+
+    <a href-disabled="">
+    <img class="img-cover" style="opacity:0.5;" src="covers/Album3.png" height="auto" width="300" alt="ALBUM THREE">
+    </a>
+
+    <a href-disabled="">
+    <img class="img-cover" style="opacity:0.5;" src="covers/Album4.png" height="auto" width="300" alt="ALBUM FOUR">
+    </a>
+
+
+    <br>
+
+    <!-- EP's [Images] -->
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; EPS &target;</p>
+
+    <a href="https://open.spotify.com/album/0Jy2ar2gJ0L6Y4aYAAGMmJ?si=WTA3i98eRc6nn7WVP10rfg">
+    <img class="img-cover" src="covers/thewayofliving2.png" height="auto" width="300" alt="The Way of Living">
+    </a>
+
+    <a href="https://open.spotify.com/album/25ZJogS2LE3C59TneFYQEE?si=5xr0-PZlSI-5bf9DSQDyVg">
+    <img class="img-cover" src="covers/dropit.jpg" height="auto" width="300" alt="Drop It">
+    </a>
+
+    <a href="https://open.spotify.com/album/3uAQd84ff89gg60YEBQVln?si=NWLU_ZxxRjqHjJosVFGYYA">
+    <img class="img-cover" src="covers/SummerEP.jpg" height="auto" width="300" alt="Summer EP">
+    </a>
+
+    <a href="https://open.spotify.com/album/4zq4J7UtO79VROJ7lXraIa?si=OvvyCyC2QpGQ4-RWs34GNg">
+    <img class="img-cover" src="covers/Inferior EP.jpg" height="auto" width="300" alt="Inferior EP">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/1Tff6YHq46K5za8421gvmL?si=B1vSTQtwRGqgltiV_Pw-cw">
+    <img class="img-cover" src="covers/Alarm EP.png" height="auto" width="300" alt="Alarm EP">
+    </a>
+
+    <a href="https://open.spotify.com/album/44yFTMaFgnfiBo5kxMHu8P?si=h6QnQURnQ9mhjEGUsnoAYQ">
+    <img class="img-cover" src="covers/I'm Bad.jpg" height="auto" width="300" alt="I'm Bad EP">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/sets/july-ep">
+    <img class="img-cover" src="covers/july ep.jpg" height="auto" width="300" alt="July EP">
+    </a>
+
+    <a href="https://open.spotify.com/album/6WbbSi52fDd4X6KRIN2QwH?si=ww7lWZvfTuW3shdftFU4Xg">
+    <img class="img-cover" src="covers/GAME OVER (EP) - Streaming.jpg" height="auto" width="300" alt="Game Over: EP">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://fanlink.to/IWontQuitEP">
+    <img class="img-cover" src="covers/I Won't Quit.jpg" height="auto" width="300" alt="I Won't Quit EP">
+    </a>
+
+    <a href="https://sorrow.fanlink.to/ChptI">
+    <img class="img-cover" src="covers/Sorrow (Chapter I).jpg" height="auto" width="300" alt="Sorrow: Chapter I">
+    </a>
+
+    <a href="https://fanlink.to/LXVELESS">
+    <img class="img-cover" src="covers/Lxveless (Chapter II).jpg" height="auto" width="300" alt="LXVELESS: Chapter II">
+    </a>
+
+    <a href="https://fanlink.to/CHRISTMASEP">
+    <img class="img-cover" src="covers/CHRISTMAS EP.jpg" height="auto" width="300" alt="Christmas EP">
+    </a>
+
+    <br>
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; Singles &target;</p>
+
+    <a href="https://open.spotify.com/album/1Bi9v1Doe31NDI1EM9C1as?si=CqSgzYDgSAaoMKnRSTAh2g">
+    <img class="img-cover" src="covers/ILY (original).png" height="auto" width="300" alt="ILY (I Love You)">
+    </a>
+
+    <a href="https://open.spotify.com/album/6cfhFraz3yinRZcWUsSrFc?si=fAM6w8DkSfyAR0LGkEG2Aw">
+    <img class="img-cover" src="covers/8bitonfire.jpg" height="auto" width="300" alt="8-Bit on Fire">
+    </a>
+
+    <a href="https://open.spotify.com/album/6A5tHZe1KVz1P91YkJZP0o?si=IPLihzl3TPCtqGq-x9wfqw">
+    <img class="img-cover" src="covers/'dub'.png" height="auto" width="300" alt="'Dub''">
+    </a>
+
+    <a href="https://open.spotify.com/album/2WV5fWM9zNMAVwJ6de3Up1?si=79XzSHrqQQ2U7CB6YZwDHA">
+    <img class="img-cover" src="covers/Changes.jpg" height="auto" width="300" alt="Changes">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://soundcloud.com/officialpacmanalex007/bionic">
+    <img class="img-cover" src="covers/Bionic.png" height="auto" width="300" alt="Bionic">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/toxic">
+    <img class="img-cover" src="covers/Toxic.png" height="auto" width="300" alt="Toxic">
+    </a>
+
+    <a href="https://open.spotify.com/album/02iauaEQJCvzNAWviCxee0?si=gdjxvhQLQmm_z2sXR_wBlw">
+    <img class="img-cover" src="covers/Lead In.png" height="auto" width="300" alt="Lead In">
+    </a>
+
+    <a href="https://open.spotify.com/album/22HSmvfvjO9ukwjDTgL65l?si=M3CPR7IIS6iBrjj_HxiB6w">
+    <img class="img-cover" src="covers/future1.png" height="auto" width="300" alt="Future">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/4Hbvn5NTtmlvXRyYCTSOqM?si=Gm9PU5aET_SOA3K9pQjFVg">
+    <img class="img-cover" src="covers/jetfire.jpg" height="auto" width="300" alt="Jetfire">
+    </a>
+
+    <a href="https://open.spotify.com/album/6lSrArDE6JVSJk07f7EqaJ?si=QZDZHMsmSS2BMlepiKLZCw">
+    <img class="img-cover" src="covers/gameovercover.jpg" height="auto" width="300" alt="Game Over">
+    </a>
+
+    <a href="https://open.spotify.com/album/3ye4c3hbBmsuWkLxP3aDei?si=AeprvBQVRbeXV7d8338Cuw">
+    <img class="img-cover" src="covers/Paradise (feat Oceanically).png" height="auto" width="300" alt="Paradise (feat. Oceanically)">
+    </a>
+
+    <a href="https://open.spotify.com/album/2e0fDb4zGUNkGCaov6DmrV?si=7KDT4FtFT_K8BcUp_Lw4gw">
+    <img class="img-cover" src="covers/Tribal (Official Cover).png" height="auto" width="300" alt="Tribal">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/3tNniFJyFkYDVMp46AJfZk?si=V2uI0CHDS5iCUUW_Ht9xEQ">
+    <img class="img-cover" src="covers/Arrived.jpg" height="auto" width="300" alt="Arrived">
+    </a>
+
+    <a href="https://open.spotify.com/album/7HnbQ9BZ3gt5bESQ1Idq4E?si=uShXIyiYRV-SzbmU-toHtw">
+    <img class="img-cover" src="covers/Chills.jpg" height="auto" width="300" alt="Chills">
+    </a>
+
+    <a href="https://open.spotify.com/album/1OEX9IhIF8MZr9BfuzWC2B?si=lepZAJw-QXWLWWK2JIkFcw">
+    <img class="img-cover" src="covers/TURN UP.jpg" height="auto" width="300" alt="Turn Up">
+    </a>
+
+    <a href="https://open.spotify.com/album/6lFAyMNiukWogS5k1SOQ6k?si=olLuNcjUQcqEBGdKlgzOpw">
+    <img class="img-cover" src="covers/Sleeves.jpg" height="auto" width="300" alt="Sleeves">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/3ssvRKCvzkvQxlGWjHnrRU?si=nkxac_WxRimWp-98zrjX4g">
+    <img class="img-cover" src="covers/Danger.jpg" height="auto" width="300" alt="Let's Go">
+    </a>
+
+    <a href="https://open.spotify.com/album/4e36zrWA2ftI2oKKjaPUvt?si=pSc1zvePR4St2mqPuDANRw">
+    <img class="img-cover" src="covers/Dreaming [feat Oceanically].jpg" height="auto" width="300" alt="Dreaming (feat. Oceanically)">
+    </a>
+
+    <a href="https://open.spotify.com/album/6CXnae0PSMKvDoWvvzolcC?si=7aUqgc4PRUmS5xL9IBzhlg">
+    <img class="img-cover" src="covers/With Me Tonight (feat. WithoutMyArmor).jpg" height="auto" width="300" alt="With Me Tonight (feat. WithoutMyArmor)">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/im-still-here">
+    <img class="img-cover" src="covers/I'm Still Here.jpg" height="auto" width="300" alt="I'm Still Here">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://soundcloud.com/officialpacmanalex007/mr-plow">
+    <img class="img-cover" src="covers/Mr Plow.png" height="auto" width="300" alt="Mr Plow">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/mr-plow-extended">
+    <img class="img-cover" src="covers/Mr Plow - Extended.png" height="auto" width="300" alt="Mr Plow">
+    </a>
+
+    <a href="https://open.spotify.com/album/0nXw6jNzXD0DhigqZyCzn0?si=vfc3TXi8R3-AMimZuN6LaA">
+    <img class="img-cover" src="covers/Throw Up Some Love.jpg" height="auto" width="300" alt="Throw Up Some Love">
+    </a>
+
+    <a href="https://open.spotify.com/album/6HZQ1c4K9DDnOGqhE5YYvb?si=k6v0mByOTOKqSJww0p2dVQ">
+    <img class="img-cover" src="covers/Chop It Up.jpg" height="auto" width="300" alt="Chop It Up">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/6U1ObM20TqT9FT1t2i1ji3?si=Hm9vAG0OTP2MtW62GJ8k8w">
+    <img class="img-cover" src="covers/Chop It Up.jpg" height="auto" width="300" alt="You're Free (feat. Leal)">
+    </a>
+
+    <a href="https://open.spotify.com/album/5cyXqWJjlqCiErzrBPNUJg?si=-TbCJqA_TVapGHZ7u8ZbqQ">
+    <img class="img-cover" src="covers/Secure The Bag [updated - new font].png" height="auto" width="300" alt="Secure The Bag">
+    </a>
+
+    <a href="https://open.spotify.com/album/08dQzRVj0Z21iQJHObH59I?si=CvV7yD0cRKaoROvsazdQpA">
+    <img class="img-cover" src="covers/TAKING OVER TONIGHT [Album cover].png" height="auto" width="300" alt="Taking Over Tonight">
+    </a>
+
+    <a href="https://open.spotify.com/album/6a0AUXTp1iQZPkVuiMgCfZ?si=_-IfRlc8QbaXRt_oEXjoLw">
+    <img class="img-cover" src="covers/San Fernando.jpg" height="auto" width="300" alt="San Fernando">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/album/2pln4pbeORTjdHFrbYr1cN?si=GXZydA9uR7aC_YkvEfOH2A">
+    <img class="img-cover" src="covers/Ensemble.jpg" height="auto" width="300" alt="Ensemble">
+    </a>
+
+    <a href="https://open.spotify.com/album/0qAeMBxfK5VyuD3uBgtLmt?si=XXqnESVPSz2z0dlknWn6NQ">
+    <img class="img-cover" src="covers/zombie.jpg" height="auto" width="300" alt="Zombie">
+    </a>
+
+    <a href="https://open.spotify.com/album/5nrxq53aF5i2li1IyKAwu5?si=kLs3-tagRc2EgR7Uzajt0w">
+    <img class="img-cover" src="covers/MIND THE GAP.jpg" height="auto" width="300" alt="Mind The Gap">
+    </a>
+
+    <a href="https://open.spotify.com/track/0GRlCkywnnRe3S2apZtgGY">
+    <img class="img-cover" src="covers/KICK, CLICK, SNARE 2.jpg" height="auto" width="300" alt="Kick Click Snare">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/track/2e1ovYDQiQcBrGv1ApbW2f">
+    <img class="img-cover" src="covers/Random Automation.jpg" height="auto" width="300" alt="Soft Sounding">
+    </a>
+
+    <a href="https://open.spotify.com/album/2r071fUjpAzCFPeZHa0XbO?si=_df1tJLmTpOQL_E3XinJig">
+    <img class="img-cover" src="covers/erROr4x4mElttttddOOOwwnn.jpg" height="auto" width="300" alt="please wait / erROr4x4mElttttddOOOwwnn***">
+    </a>
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; Mixtapes &target;</p>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/mixtape-2016-final-version">
+    <img class="img-cover" src="covers/Mixtape 2016.png" height="auto" width="300" alt="Mixtape 2016">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/mixtape-2017">
+    <img class="img-cover" src="covers/Mixtape 2017.png" height="auto" width="300" alt="Mixtape 2017">
+    </a>
+
+    <a href="https://open.spotify.com/album/0dZ2pD48niBHuPYAlS3x9D?si=U-YJxP2bSgyevtBe1CR_Sw">
+    <img class="img-cover" src="covers/mixtape 2018.jpg" height="auto" width="300" alt="Mixtape 2018">
+    </a>
+
+    <a href-disabled="#">
+    <img class="img-cover" style="opacity:0.5;" src="covers/MIXAPE 2019.jpg" height="auto" width="300" alt="Mixtape 2019 (unreleased)">
+    </a>
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; REMIXES &target;</p>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/terravita-bare-aim-to-kill-alex-fay-remix">
+    <img class="img-cover" src="covers/AIM TO KILL.jpg" height="auto" width="300" alt="Terravita & Bare - Aim To Kill (Alex Fay Remix)">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/say-less-alex-fay-remix">
+    <img class="img-cover" src="covers/SAY LESS - ALEX FAY REMIX.png" height="auto" width="300" alt="Dillon Francis & G-Eazy - Say Less (Alex Fay Remix)">
+    </a>
+
+    <a href="https://open.spotify.com/track/71mOiGyavzzfKWYI1S4x0T">
+    <img class="img-cover" src="covers/Cash Me Outside (Version Two).png" height="auto" width="300" alt="CASH ME OUTSIDE (Remix)*">
+    </a>
+
+    <a href="https://soundcloud.com/officialpacmanalex007/skrillex-snails-turn-it-up-alex-fay-remix">
+    <img class="img-cover" src="covers/Skrillex & Snails - Turn It Up.png" height="auto" width="300" alt="Skrillex & Snails - Turn It Up (Alex Fay Remix)">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://soundcloud.com/officialpacmanalex007/lil-aaron-quit-feat-travis-barker-alex-fay-remix">
+    <img class="img-cover" src="covers/QUIT.jpg" height="auto" width="300" alt="Lil Aaron - QUIT (feat. Travis Barker) [Alex Fay Remix]">
+    </a>
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; Side Projects / Collabs &target;</p>
+
+    <a href="https://open.spotify.com/album/7jznPMRYS2i1OGTZPpmndi?si=1-v_mNhAQHa2Y_6k-eO_Lw">
+    <img class="img-cover" src="covers/Tinseltown Is Coming Down.jpg" height="auto" width="300" alt="The Lads, Yung Bruther - Tinseltown Is Coming Down">
+    </a>
+
+    <a href="https://open.spotify.com/track/6Lh08ayxWeeBSXRuucKYyL">
+    <img class="img-cover" src="covers/Lost.jpg" height="auto" width="300" alt="Yung Bruther - Lost">
+    </a>
+
+    <a href="https://open.spotify.com/album/2NRhQHJCgabW5dIr8dgB2B?si=mzy-nEPaRnar_9ERhIKYoA">
+    <img class="img-cover" src="covers/In Love We Trust [streaming].jpg" height="auto" width="300" alt="JayAyEmEyeEe - In Love We Trust (Single)****">
+    </a>
+
+    <a href="https://open.spotify.com/album/3eHUryx8ANorgyjwlWxrhU?si=N_8Vy-QUQ3qXhMaze3LTGw">
+    <img class="img-cover" src="covers/The Unholy Pain.jpg" height="auto" width="300" alt="JayAyEmEyeEe - The Unholy Pain (Deluxe)****">
+    </a>
+
+    <hr style="margin-top: 5px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <a href="https://open.spotify.com/track/3zQQwI2lloFWO33dhlYV1x">
+    <img class="img-cover" src="covers/Ring Ring.jpg" height="auto" width="300" alt="Yung Bruther - Ring Ring">
+    </a>
+
+    <hr style="margin-top: 25px; height: 1px; border-top: 1px solid rgb(17, 17, 17); border-bottom: 1px solid rgb(51, 51, 51); width: 98%;">
+
+    <p style="font-size:2em;color:white;text-shadow:0px 0px 0.75em white;">&target; Information / Other stuff &target;</p>
+
+
+<center>
+<div style="width:50%;" class="side-projects">
+    <li class="list-group-item"><b>Unreleased or removed</b>:</li>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Mixtape 2019 - <small>Doesnt Contain a <b>Release</b> or <b>Remove</b> date.</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Lost My Mind (feat. Jak Wilks) (Single) - <small>Released: ??? ??, 2017</small> • <small>Removed: Sep 13, 2017</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Beats - <small>Released: 2015</small> • <small>Removed: Sep 13, 2017 • <b>Desc</b>: This was my first album ever, and of course my first release. I removed it, as well as a few other albums, because I just didn't like it how sounded years later... At the time I (stupidly) thought it was good but in reality, it wasn't. If you want to listen to the album, I think I have it on SoundCloud, unless I deleted it there but last I checked some of the singles are still available <i>(don't quote me on that)</i></small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Beats [Deluxe Edition] - <small>Released: Jan ??, 2015</small> • <small>Removed: Sep 13, 2017</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Doesn't Fucking Matter - <small>Expected Release: 2020</small> • <small>Removed: No date</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">LAST MAN STANDING - <small>Expected Release: 2020</small> • <small>Removed: No date</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">NO SURVIVORS - <small>Expected Release: 2020</small> • <small>Removed: No date</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Untitled Fourth Album (ID) - <small>Expected Release: 2020</small> • <small>Removed: No date</small></a>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Boss - <small>Expected Release: 2017-18 | <b>Desc</b>: was made in 2017, finished the same year and out for release a few months later if I remember correctly and it get on getting rejected because of apparent "samples" I used yet I create all my sound myself. Pissed me off mostly because I spent so long on that, as well as a bunch of my old friends worked on it. I may provide a download, idk. If anyone cares or see this, ya know.</small></a>
+</center>
+<hr>
+<center>
+<div style="width:50%;" class="demos">
+    <li class="list-group-item"><b>Demo(s)</b>:</li>
+    <a href="#" class="list-group-item list-group-item-action list-group-item-primary disabled" aria-disabled="true">Bedroom EP (Known now as <b>P A R A N O I D</b>) was a 4 track EP featuring a different cover to what <b>"P A R A N O I D"</b> is now, though <b><i>"Bedroom"</i></b> was only an EP. The four tracks were titled: <b>"Track One", "Track Two", "Track Three", "Track Four"</b>; Named on the album as: <b>"Intro", "Systems Down", "Ceyda" & "Chop it Up"</b> though the <b><i>"Bedroom"</i></b> versions were shorter than the current album versions. Differences being: <b>"Track One": 01:02 / "Intro": "03:19", "Track Two": 01:23 / "Systems Down": 02:17, "Track Three": 02:26 / "Ceyda": 04:07</b> and finally <b>"Track Four" which is "Chop It Up"</b> has, from what I can see any length difference only by like 2 seconds and as of writing this, <b>(23/02/2020)</b>, they sound exactly the time.  - <small>Doesnt Contain a <b>Release</b> or <b>Remove</b> date.</small>
+    <hr>
+    <p>Download: <i>[coming soon]</i></p></a>
+    </center>
+
+<hr>
+<center>
+    <div style="width:50%;" class="keys">
+        <li class="list-group-item"><b>Keys</b>:</li>
+        <ul class="list-group list-group-horizontal-xl">
+        <li class="list-group-item">*: Unsure whether this is considered a <b>Remix</b>, though is on my album <i><a href="https://open.spotify.com/track/71mOiGyavzzfKWYI1S4x0T">Alex Fay (Deluxe)</a>.</i></li>
+        <li class="list-group-item">**: Was going to be released in 2017 but the release messed up and released <i>Jan 31 2018</i></li>
+        <li class="list-group-item">***: According to <a href="https://en.wikipedia.org/wiki/Spotify"><i>Spotify</i></a>, it's considered an <b>EP</b> rather than a <b>Single</b>.</li>
+        <li class="list-group-item">****: Produced, Mixed or Mastered. Any project with those four astericks mean one of the three, maybe two or all. To find out, <a href="https://en.wikipedia.org/wiki/Spotify"><i>Spotify</i></a> has an option to check <a href="images/Spotify_SOG7lKoPO9.png"><b>Song credits</b></a>, <a href="https://artists.spotify.com/blog/spotify-now-displays-songwriter-credits">click here to find out more</a>.</li>
+    </ul>
+        <ul class="list-group list-group-horizontal-xl">
+        <li class="list-group-item">Mixtape 2019 isn't included here because it was never released anywhere due to publishing issues so it was replaced with an EP, <a href="https://open.spotify.com/album/1IcCG7alHiCIfELeWZZQcj?si=qqv-sVFdSlS7VTgvIhmFGA">Christmas EP</a> which dropped Dec 25, 2019</li>
+    </ul>
+    </div>
+</center>
+
+<hr>
+
+
+<p style="font-size:25px;color:red;text-align:center;">Follow my <i>Spotify</i> <b>ACCOUNT</b> <a href="https://open.spotify.com/artist/7puOmukAbVAQCcm1Vlgk3o?si=zT7Ee1FbTk-u_Rsxva_qWQ">here</a></p> <p style="font-size:25px;color:red;text-align:center;">Stream my main playlist <b>B e L o W</b></p>
+<hr style="border-top: 1px dashed gray;">
+
+<center>
+<iframe src="https://open.spotify.com/embed/playlist/66prt5DMyv0pQBr4tbO0TP" width="500" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</center>
+
+<hr>
+<center>
+    <div class="social">
+        <li class="list-group-item" style="color:black;"><b>Social Media</b>:
+        <a href="https://www.facebook.com/Pacmanalex007"><button type="button" class="btn facebook"><i data-feather="facebook"></i> Facebook</button></a> •
+        <a href="https://www.twitter.com/Pacmanalex007"><button type="button" class="btn twitter"><i data-feather="twitter"></i> Twitter</button></a> •
+        <a href="https://www.instagram.com/Pacmanalex007"><button type="button" class="btn instagram"><i data-feather="instagram"></i> Instagram</button></a> •
+        <a href="https://www.youtube.com/Pacmanalex007"><button type="button" class="btn youtube"><i data-feather="youtube"></i> YouTube</button></a> •
+        <a href="https://github.com/pacmanalex007"><button type="button" class="btn github"><i data-feather="github"></i> Github</button></a>
+        </li>
+    </div>
+
+<script>
+feather.replace()
+</script>
+</center>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
