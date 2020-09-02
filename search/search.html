@@ -5,9 +5,66 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
   <title>Results - New Website</title>
 
+<style>
+body{
+background-color:black;
+}
+
+#search-results p
+{
+    display: none;
+}
+
+a {
+font-size:1.70em;
+text-decoration:none;
+color: white;
+}
+a:hover{
+text-decoration:none;
+color:blue;
+}
+
+.fig-ansi {
+font-size: 8.55pt;
+background-color:transparent;
+font-family: "Courier New", Monospace;
+white-space: pre;
+text-shadow:0px 0px 0.15em white;
+box-shadow: 0px 0px 1.45em white;
+width:55%;
+overflow:hidden;
+text-decoration: none;
+
+line-height: 16px;
+}
+
+.fig-ansi-bottomtext {
+color:white;
+font-size: 14pt;
+background-color:transparent;
+font-family: "Courier New", Monospace;
+white-space: pre;
+text-shadow:0px 0px 0.45em gold;
+box-shadow: 0px 0px 0.45em white;
+width:60%;
+overflow:hidden;
+
+padding: 0px 0px 1px;
+line-height: 24px;
+}
+
+.dt{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+</style>
 
 <script>
 $(document).ready(function()
