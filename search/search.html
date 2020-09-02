@@ -1,0 +1,88 @@
+<html>
+<head>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Results - New Website</title>
+
+
+<script>
+$(document).ready(function()
+{
+    var url = document.location.href;
+    var search_val_raw = url.split("?q=")[1];
+    var search_val_count = search_val_raw.split("+");
+    var search_val;
+
+    for(var i = 0; i < search_val_count.length; i++)
+    {
+        search_val = search_val_count[i];
+
+        $("#search-results p:contains(" + search_val + ")").show();
+    }
+});
+</script>
+
+</head>
+<body>
+
+<center>
+    <br style="margin-bottom:1em;">
+
+    <!-- Site Logo -->
+    <center>
+    <a style="text-decoration:none;" href="./">
+    <pre id="taag_output_text" class="fig-ansi dt" contenteditable="false">
+        o    o                    o      o        8              o   o           .oPYo.                            8      
+        8b   8                    8      8        8                  8           8                                 8      
+        8`b  8 .oPYo. o   o   o   8      8 .oPYo. 8oPYo. .oPYo. o8  o8P .oPYo.   `Yooo. .oPYo. .oPYo. oPYo. .oPYo. 8oPYo. 
+        8 `b 8 8oooo8 Y. .P. .P   8  db  8 8oooo8 8    8 Yb..    8   8  8oooo8       `8 8oooo8 .oooo8 8  `' 8    ' 8    8 
+        8  `b8 8.     `b.d'b.d'   `b.PY.d' 8.     8    8   'Yb.  8   8  8.            8 8.     8    8 8     8    . 8    8 
+        8   `8 `Yooo'  `Y' `Y'     `8  8'  `Yooo' `YooP' `YooP'  8   8  `Yooo'   `YooP' `Yooo' `YooP8 8     `YooP' 8    8 
+        ..:::..:.....:::..::..::::::..:..:::.....::.....::.....::..::..::.....::::.....::.....::.....:..:::::.....:..:::..
+        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    </pre>
+    </a>
+    </center>
+    <!-- Site Logo -->
+
+<br style="margin-top:0.25em;margin-bottom:3em;">
+
+<p style="font-size:2.1em;color:white;text-align:center;">Here are your search results...</p>
+<br style="margin-top:25px;margin-bottom:-25px;">
+<div id="search-results">
+<p><a href="../updates" target="_blank">Updates</a></p>
+<p><a href="../randomness/" target="_blank">Randomness</a></p>
+<p><a href="../meme-roulette/" target="_blank">Meme Roulette</a></p>
+<p><a href="../HELP ME/" target="_blank">Help Me</a></p>
+<p><a href="../HELP ME/" target="_blank">help me</a></p>
+<p><a href="../HELP ME/" target="_blank">HELP ME</a></p>
+<p><a href="../FakeTor/" target="_blank">FakeTor</a></p>
+<p><a href="../DVD/" target="_blank">DVD</a></p>
+<p><a href="../letters/karen.html" target="_blank">Letter to Karen</a></p>
+<p><a href="../mocking/" target="_blank">Spongebob Mock Generator</a></p>
+<p><a href="../games/Block/" target="_blank">Block</a></p>
+<p><a href="../games/clickgame/" target="_blank">Click Game</a></p>
+<p><a href="../no_internet/" target="_blank">No Internet</a></p>
+
+</center>
+
+<br style="margin-top:0.25em;margin-bottom:3em;">
+
+<center>
+<pre id="taag_output_text" class="fig-ansi-bottomtext dt" contenteditable="false">
+
+If you see incorrect search results, please contact our team!
+Please also be aware that we only provide you results to sites we've created only.
+
+</pre>
+
+</center>
+    
+</div>
+</body>
+</html>
