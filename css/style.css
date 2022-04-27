@@ -1,23 +1,209 @@
+/* For desktops and shit :) */
+hr {
+background: none;
+border: 0;
+clear: both;
+display: block;
+float: none;
+font-size: 0;
+padding: 0;
+overflow: hidden;
+visibility: hidden;
+}
+.social {
+background-color: black; /* Fallback color */
+background-color: darkgray; /* Black w/opacity/see-through */
+color: black;
+border: 4px solid #000000;
+position: absolute;
+top: 90%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 0;
+width: 55%;
+padding: 0;
+text-align: center;
+}
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.nwa-underline{
+color:black;
+opacity:0.5;
+}
+.nwa-underline:hover{
+color:goldenrod;
+opacity:1.0;
+}
+
+.logo-navbar{
+font-size:1.5em;
+z-index: 0;
+color:red;
+position:relative;
+margin-bottom:auto;
+}
+
+.navbar{
+list-style:none;
+display:flex;
+flex-direction:row;
+}
+
+
+.hover{
+color:black;
+/* opacity:0.25; */
+transition: 0.3s;
+}
+.hover:hover{
+color:darkred;
+/* opacity:1.0; */
+transition: 0.3s;
+}
+
+.nw{
+color:red;
+transition: 0.3s;
+}
+.nw:hover{
+color:darkred;
+transition: 0.3s;
+}
+
+.site-logo-1{
+/* color:white;
+text-shadow: 0px 1px 0.45em white; */
+font-family: Arial, Helvetica, sans-serif;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.dt{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.nwa2-logo{font-size:3em;color:firebrick;font-family:Aldrich;font-weight:800;text-shadow:0px 0px 0.1em darkgoldenrod;box-shadow:0px 4.5px 0.25em grey;width:50%;}
 
 blink, .blink {
-    -webkit-animation: blink 2s step-end infinite;
-       -moz-animation: blink 1s step-end infinite;
-         -o-animation: blink 2s step-end infinite;
-            animation: blink 1s step-end infinite;
-  }
-  
-  @-webkit-keyframes blink {
-   55% { opacity: 0 }
-  }
-  
-  @-moz-keyframes blink {
-   75% { opacity: 0 }
-  }
-  
-  @-o-keyframes blink {
-   25% { opacity: 0 }
-  }
-  
-  @keyframes blink {
-   55% { opacity: 0 }
-  }
+-webkit-animation: blink 2s step-end infinite;
+-moz-animation: blink 1s step-end infinite;
+-o-animation: blink 2s step-end infinite;
+animation: blink 1s step-end infinite;
+}
+
+@-webkit-keyframes blink {
+55% { opacity: 0 }
+}
+
+@-moz-keyframes blink {
+75% { opacity: 0 }
+}
+
+@-o-keyframes blink {
+25% { opacity: 0 }
+}
+
+@keyframes blink {
+55% { opacity: 0 }
+}
+
+/* For mobiles and stuff, hopefully it looks good on your device and with testing on my phone it looks a'ight so yeah. */
+@media only screen and (max-width: 620px) {
+hr {
+background: none;
+border: 0;
+clear: both;
+display: block;
+float: none;
+font-size: 0;
+padding: 0;
+overflow: hidden;
+visibility: hidden;
+}
+.social {
+background-color: black; /* Fallback color */
+background-color: darkgray; /* Black w/opacity/see-through */
+color: black;
+border: 4px solid #000000;
+position: absolute;
+top: 90%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 0;
+width: 55%;
+padding: 0;
+text-align: center;
+}
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.nwa-underline{
+color:black;
+opacity:0.5;
+}
+.nwa-underline:hover{
+color:goldenrod;
+opacity:1.0;
+}
+
+.logo-navbar{
+font-size:1.25em;
+z-index: 0;
+color:red;
+position:relative;
+margin-bottom:auto;
+}
+
+.navbar{
+list-style:none;
+display:flex;
+flex-direction:row;
+}
+
+.hover{
+color:black;
+/* opacity:0.25; */
+transition: 0.3s;
+}
+.hover:hover{
+color:darkred;
+/* opacity:1.0; */
+transition: 0.3s;
+}
+
+.nw{
+color:red;
+transition: 0.3s;
+}
+.nw:hover{
+color:darkred;
+transition: 0.3s;
+}
+
+.site-logo-1{
+/* color:white;
+text-shadow: 0px 1px 0.45em white; */
+font-family: Arial, Helvetica, sans-serif;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.nwa2-logo{font-size:1.5em;color:firebrick;font-family:Aldrich;font-weight:800;text-shadow:0px 0px 0.1em darkgoldenrod;box-shadow:0px 4.5px 0.25em grey;width:50%;}
+
+}
